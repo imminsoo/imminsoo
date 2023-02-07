@@ -1,1 +1,1 @@
-https://github-readme-stats.vercel.app/api/top-langs/?username={imminsoo}
+ github-readme-stats.vercel.app/api/top-langs/?username={imminsoo}&langs_count=8
